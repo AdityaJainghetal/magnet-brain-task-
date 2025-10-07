@@ -6,6 +6,7 @@ import Cart from "./pages/Cart";
 import Checkout from "./pages/Checkout";
 import Success from "./pages/success";
 import Failed from "./pages/failed";
+
 const App = () => {
   return (
     <>
